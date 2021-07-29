@@ -3,7 +3,7 @@
  Step 1 : Fork and clone the Repository.
  
  Step 2 : Then run
- # `npm install`
+ ### `npm install`
  to install all the required modules.
  
  Step 3 : Go to https://openweathermap.org/api and sign in to get your api key.
